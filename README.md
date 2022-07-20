@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @titanlis (Andrei)
-- ⛏ I work on freelance platforms for students.
+- ⛏ I worked for two years on freelance platforms for students. 
 - ✔ I develop programs in C++ and Java.
 - 🧭  I have a graduate degree in "Siberian State Geodesic Academy" as an information systems engineer.
-It would be very interesting to participate in a commercial project.
+- At the moment I'm working as a Java backend developer at ITMining. I develop software for navigating and controlling excavators and other quarry equipment. It is a server and an onboard computer.
